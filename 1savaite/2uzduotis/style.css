@@ -67,10 +67,15 @@ nav {
 	font-size: 40px;
 	display: block;
 	margin:0 auto;
+
+}
+ul{
+
 }
 li{
 	display: inline;
-	
+	color: white ;
+border-right: solid 2px white;
 }
 
 
